@@ -17,7 +17,7 @@ const Blog = () => {
                     <div className="card card-size">
                         <img src={img1} className="card-img-top" alt="..."/>
                         <div className="card-body">
-                        <h5 className="card-title">Card title</h5>
+                        <h5 className="card-title">Torronto Music Fest</h5>
                         <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                         <button className="btn card_button">Read More</button>
                         </div>
@@ -27,7 +27,7 @@ const Blog = () => {
                     <div className="card card-size">
                         <img src={img2} className="card-img-top" alt="..."/>
                         <div className="card-body">
-                        <h5 className="card-title">Card title</h5>
+                        <h5 className="card-title">NewYork Music Fest</h5>
                         <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                         <button className="btn card_button">Read More</button>
                         </div>
@@ -37,7 +37,7 @@ const Blog = () => {
                     <div className="card card-size">
                         <img src={img3} className="card-img-top" alt="..."/>
                         <div className="card-body">
-                        <h5 className="card-title">Card title</h5>
+                        <h5 className="card-title">Sydney Music Fest</h5>
                         <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                         <button className="btn card_button">Read More</button>
                         </div>
@@ -47,7 +47,7 @@ const Blog = () => {
                     <div className="card card-size">
                         <img src={img4} className="card-img-top" alt="..."/>
                         <div className="card-body">
-                        <h5 className="card-title">Card title</h5>
+                        <h5 className="card-title">Berlin Music Fest</h5>
                         <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                         <button className="btn card_button">Read More</button>
                         </div>
@@ -57,7 +57,7 @@ const Blog = () => {
                     <div className="card card-size">
                         <img src={img5} className="card-img-top" alt="..."/>
                         <div className="card-body">
-                        <h5 className="card-title">Card title</h5>
+                        <h5 className="card-title">Tokyo Music Fest</h5>
                         <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                         <button className="btn card_button">Read More</button>
                         </div>
@@ -67,7 +67,7 @@ const Blog = () => {
                     <div className="card card-size">
                         <img src={img6} className="card-img-top" alt="..."/>
                         <div className="card-body">
-                        <h5 className="card-title">Card title</h5>
+                        <h5 className="card-title">Las Vegus Music Fest</h5>
                         <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                         <button className="btn card_button">Read More</button>
                         </div>
