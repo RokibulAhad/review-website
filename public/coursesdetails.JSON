@@ -1,0 +1,117 @@
+[
+    {
+        "key": "1",
+        "name": "Fundamentals of Music Theory Learn New",
+        "Level": "Beginner",
+        "Fee": 90,
+        "Instructor": "Eilderasse",
+        "Duration": "10 Week",
+        "Lessions": 20,
+        "img": "https://imagevars.gulfnews.com/2021/06/12/Listening-music_179ffb774c3_medium.jpg",        
+        "Quizzes": 5,
+        "Certificate": "Yes",
+        "Language": "English"
+        
+    },
+    {
+        "key": "2",
+        "name": "Fundamentals of Guiter Learning",
+        "Level": "Beginner",
+        "Fee": 100,
+        "Instructor": "Margaret",
+        "Duration": "12 Week",
+        "Lessions": 24,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCJR24JfMW_u-lyC6ajCrwcAoZc6lpDLtb4IjyUcrn_Jou8lfOoj9Q7iTORdvIICabnkI&usqp=CAU",        
+        "Quizzes": 6,
+        "Certificate": "Yes",
+        "Language": "English"
+        
+    },
+    {
+        "key": "3",
+        "name": "Advanced Guiter Learning With Acoustic ",
+        "Level": "Intermediate",
+        "Fee": 150,
+        "Instructor": "Liam",
+        "Duration": "16 Week",
+        "Lessions": 32,
+        "img": "https://static.toiimg.com/thumb/msid-80009581,width-1200,height-900,resizemode-4/.jpg",        
+        "Quizzes": 8,
+        "Certificate": "Yes",
+        "Language": "English"
+        
+    },
+    {
+        "key": "4",
+        "name": "Advanced Electric Violin Learning ",
+        "Level": "Intermediate",
+        "Fee": 140,
+        "Instructor": "Olivia",
+        "Duration": "16 Week",
+        "Lessions": 32,
+        "img": "https://static.toiimg.com/thumb/msid-79370199,width-1200,height-900,resizemode-4/.jpg",        
+        "Quizzes": 8,
+        "Certificate": "Yes",
+        "Language": "English"
+        
+    },
+    {
+        "key": "5",
+        "name": "Beginner Electric Violin Learning ",
+        "Level": "Beginner",
+        "Fee": 120,
+        "Instructor": "Benjamin",
+        "Duration": "12 Week",
+        "Lessions": 24,
+        "img": "https://www.cmuse.org/wp-content/uploads/2019/10/Music-for-Electric-Violin.jpg",        
+        "Quizzes": 5,
+        "Certificate": "Yes",
+        "Language": "English"
+        
+    },
+    {
+        "key": "6",
+        "name": "Beginner Piano Learning ",
+        "Level": "Beginner",
+        "Fee": 110,
+        "Instructor": "Lucas",
+        "Duration": "10 Week",
+        "Lessions": 20,
+        "img": "https://static01.nyt.com/images/2018/12/30/sunday-review/30weiner-Sub2/30weiner-Sub2-superJumbo.jpg",        
+        "Quizzes": 6,
+        "Certificate": "Yes",
+        "Language": "English"
+        
+    },
+    {
+        "key": "7",
+        "name": "Advanced Electric Guiter Learning ",
+        "Level": "Intermediate",
+        "Fee": 150,
+        "Instructor": "Alexander",
+        "Duration": "16 Week",
+        "Lessions": 32,
+        "img": "https://play-guitars.com/wp-content/uploads/2019/03/electric-guitar-for-beginners-01.jpg",        
+        "Quizzes": 10,
+        "Certificate": "Yes",
+        "Language": "English"
+        
+    },
+    {
+        "key": "8",
+        "name": "Advanced Perfect Piano Learning ",
+        "Level": "Intermediate",
+        "Fee": 140,
+        "Instructor": "Charlotte",
+        "Duration": "14 Week",
+        "Lessions": 28,
+        "img": "https://images.ctfassets.net/yzn2zv0qt1y1/2IX1yYNDF8s6afKv8Jdg5l/c9edfb3a4c79f951f3e671b1d8f50952/iStock_000025036589_Medium.jpg?w=750",        
+        "Quizzes": 10,
+        "Certificate": "Yes",
+        "Language": "English"
+        
+    }
+    
+    
+    
+]

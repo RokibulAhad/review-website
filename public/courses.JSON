@@ -1,0 +1,61 @@
+[
+    {
+        "key": "1",
+        "name": "Fundamentals of Music Theory Learn New",
+        "Level": "Beginner",
+        "Fee": 90,
+        "Instructor": "Eilderasse",
+        "Duration": "10 Week",
+        "Lessions": 20,
+        "img": "https://imagevars.gulfnews.com/2021/06/12/Listening-music_179ffb774c3_medium.jpg",        
+        "Quizzes": 5,
+        "Certificate": "Yes",
+        "Language": "English"
+        
+    },
+    {
+        "key": "2",
+        "name": "Fundamentals of Guiter Learning",
+        "Level": "Beginner",
+        "Fee": 100,
+        "Instructor": "margaret",
+        "Duration": "12 Week",
+        "Lessions": 24,
+        "img": "https://cdn.mos.cms.futurecdn.net/CT5CNXjsQLaWrqVg7WYnzR-1200-80.jpg",        
+        "Quizzes": 6,
+        "Certificate": "Yes",
+        "Language": "English"
+        
+    },
+    {
+        "key": "3",
+        "name": "Advanced Guiter Learning With Acoustic ",
+        "Level": "Intermediate",
+        "Fee": 150,
+        "Instructor": "margaret",
+        "Duration": "16 Week",
+        "Lessions": 32,
+        "img": "https://static.toiimg.com/thumb/msid-80009581,width-1200,height-900,resizemode-4/.jpg",        
+        "Quizzes": 8,
+        "Certificate": "Yes",
+        "Language": "English"
+        
+    },
+    {
+        "key": "4",
+        "name": "Advanced Electric Violin Learning ",
+        "Level": "Intermediate",
+        "Fee": 140,
+        "Instructor": "margaret",
+        "Duration": "16 Week",
+        "Lessions": 32,
+        "img": "https://static.toiimg.com/thumb/msid-79370199,width-1200,height-900,resizemode-4/.jpg",        
+        "Quizzes": 8,
+        "Certificate": "Yes",
+        "Language": "English"
+        
+    }
+    
+    
+    
+]

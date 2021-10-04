@@ -1,0 +1,11 @@
+.line{
+    width: 50px;
+    height: 5px;
+   background: #F14D5D;
+   margin: 0 auto;
+}
+.about{
+    text-transform: uppercase;
+    color: #F14D5D ;
+    font-weight: 700;
+}
